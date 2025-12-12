@@ -1,0 +1,1402 @@
+[
+ {
+  "questionNumber": 1,
+  "question": "குற்றெழுத்துக்கள் (குறில்) ஒலிக்கும் கால அளவு (மாத்திரை) என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "இரண்டு மாத்திரை",
+  "rationale": "இரண்டு மாத்திரை நெடிலுக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஒரு மாத்திரை",
+  "rationale": "‘ஓர் அளபு இசைக்கும் குற்றெழுத்து என்ப’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "அரை மாத்திரை",
+  "rationale": "அரை மாத்திரை மெய்க்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "மூன்று மாத்திரை",
+  "rationale": "மூன்று மாத்திரை அளபெடைக்கு உரியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "கண் இமைக்கும் நேரம் ஒன்று."
+ },
+ {
+  "questionNumber": 2,
+  "question": "நெட்டெழுத்துக்கள் (நெடில்) ஒலிக்கும் கால அளவு என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஒரு மாத்திரை",
+  "rationale": "ஒரு மாத்திரை குறிலுக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "இரண்டு மாத்திரை",
+  "rationale": "‘ஈர் அளபு இசைக்கும் நெட்டெழுத்து என்ப’ என்று நூல் மரபு கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "அரை மாத்திரை",
+  "rationale": "அரை மாத்திரை மெய்க்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "நான்கு மாத்திரை",
+  "rationale": "நான்கு மாத்திரை தவறான அளவு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "குறிலை விட இரு மடங்கு."
+ },
+ {
+  "questionNumber": 3,
+  "question": "மெய்யெழுத்துக்கள் ஒலிக்கும் கால அளவு என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஒரு மாத்திரை",
+  "rationale": "ஒரு மாத்திரை குறிலுக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "அரை மாத்திரை",
+  "rationale": "‘மெய்யின் அளபே அரை என மொழிப’ என்று தொல்காப்பியம் குறிப்பிடுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "கால் மாத்திரை",
+  "rationale": "கால் மாத்திரை மகரக் குறுக்கத்திற்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "இரண்டு மாத்திரை",
+  "rationale": "இரண்டு மாத்திரை நெடிலுக்கு உரியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "குறிலில் பாதி."
+ },
+ {
+  "questionNumber": 4,
+  "question": "மொழி இறுதியில் வரும் மெய்யெழுத்துக்கள் எத்தனை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "18",
+  "rationale": "எல்லா மெய்களும் இறுதியில் வரா.",
+  "isCorrect": false
+  },
+  {
+  "text": "11",
+  "rationale": "‘ஞ ண ந ம ன ய ர ல வ ழ ள என்னும் அப் பதினொன்றே புள்ளி இறுதி’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "10",
+  "rationale": "பத்து என்பது தவறான எண்ணிக்கை.",
+  "isCorrect": false
+  },
+  {
+  "text": "6",
+  "rationale": "ஆறு என்பது தவறான எண்ணிக்கை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "ஞ, ண, ந, ம, ன, ய, ர, ல, வ, ழ, ள ஆகியன."
+ },
+ {
+  "questionNumber": 5,
+  "question": "மொழி முதலில் வரும் உயிரெழுத்துக்கள் எத்தனை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "12",
+  "rationale": "‘பன்னீர் உயிரும் மொழி முதல் ஆகும்’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "5",
+  "rationale": "ஐந்து என்பது குறில் எழுத்துக்கள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "7",
+  "rationale": "ஏழு என்பது நெடில் எழுத்துக்கள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "10",
+  "rationale": "பத்து என்பது தவறான எண்ணிக்கை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "அ முதல் ஔ வரை அனைத்தும்."
+ },
+ {
+  "questionNumber": 6,
+  "question": "மகரக் குறுக்கம் ஒலிக்கும் கால அளவு என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அரை மாத்திரை",
+  "rationale": "அரை மாத்திரை முழு மகரத்திற்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "கால் மாத்திரை",
+  "rationale": "‘அரை அளபு குறுகல் மகரம் உடைத்தே’ - அரை மாத்திரையிலிருந்து குறைந்து கால் மாத்திரை ஆகும்.",
+  "isCorrect": true
+  },
+  {
+  "text": "ஒரு மாத்திரை",
+  "rationale": "ஒரு மாத்திரை குறிலுக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "முக்கால் மாத்திரை",
+  "rationale": "முக்கால் மாத்திரை தவறான அளவு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "அரையில் பாதி."
+ },
+ {
+  "questionNumber": 7,
+  "question": "ஐந்தாம் வேற்றுமை உருபான 'இன்' எப்பொருளில் வரும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "கொடை",
+  "rationale": "கொடை நான்காம் வேற்றுமை.",
+  "isCorrect": false
+  },
+  {
+  "text": "இதனின் இற்று (ஒப்புமை/நீங்கல்)",
+  "rationale": "‘இதனின் இற்று இது என்னும் அதுவே’ என்று தொல்காப்பியம் ஐந்தாம் வேற்றுமையை விளக்குகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "உடைமை",
+  "rationale": "உடைமை ஆறாம் வேற்றுமை.",
+  "isCorrect": false
+  },
+  {
+  "text": "செயப்படுபொருள்",
+  "rationale": "இது இரண்டாம் வேற்றுமை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "ஒப்புமை, எல்லை, ஏது போன்றவற்றில் வரும்."
+ },
+ {
+  "questionNumber": 8,
+  "question": "ஆறாம் வேற்றுமை உருபான 'அது' எப்பொருளில் வரும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "கொடை",
+  "rationale": "கொடை நான்காம் வேற்றுமை.",
+  "isCorrect": false
+  },
+  {
+  "text": "கிழமை (உடைமை)",
+  "rationale": "‘அன்ன கிளவிக் கிழமைத்து அதுவே’ என்று தொல்காப்பியம் கூறுகிறது. இது உரிமைப் பொருளைக் குறிக்கும்.",
+  "isCorrect": true
+  },
+  {
+  "text": "கருவி",
+  "rationale": "கருவி மூன்றாம் வேற்றுமை.",
+  "isCorrect": false
+  },
+  {
+  "text": "விளி",
+  "rationale": "விளி எட்டாம் வேற்றுமை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "எனது வீடு, அவனது கை."
+ },
+ {
+  "questionNumber": 9,
+  "question": "ஏழாம் வேற்றுமை உருபான 'கண்' எப்பொருளில் வரும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "இடம் மற்றும் காலம்",
+  "rationale": "‘வினை செய் இடத்தின் நிலத்தின் காலத்தின்... தோன்றும்’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "கருவி",
+  "rationale": "கருவி மூன்றாம் வேற்றுமை.",
+  "isCorrect": false
+  },
+  {
+  "text": "உவமை",
+  "rationale": "உவமை ஐந்தாம் வேற்றுமையிலும் வரும்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கொடை",
+  "rationale": "கொடை நான்காம் வேற்றுமை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "ஊரின் கண், வீட்டின் கண்."
+ },
+ {
+  "questionNumber": 10,
+  "question": "'மன்' என்னும் இடைச்சொல் உணர்த்தும் பொருள்கள் யாவை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அச்சம், பயம்",
+  "rationale": "இவை 'கொன்' இடைச்சொல்லின் பொருள்கள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கழிவு, ஆக்கம், ஒழியிசை",
+  "rationale": "‘கழிவே ஆக்கம் ஒழியிசைக் கிளவி என்று அம் மூன்று என்ப மன்னைச் சொல்லே’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "விருப்பம், காலம்",
+  "rationale": "இவை 'தில்லை' இடைச்சொல்லின் பொருள்கள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "எண்ணிக்கை, தெரிநிலை",
+  "rationale": "இவை 'உம்' இடைச்சொல்லின் பொருள்கள்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பெரிதுமன், சிறியதுமன்."
+ },
+ {
+  "questionNumber": 11,
+  "question": "'தில்லை' என்னும் இடைச்சொல் எப்பொருளை உணர்த்தும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "விழைவு (விருப்பம்), காலம், ஒழியிசை",
+  "rationale": "‘விழைவே காலம் ஒழியிசைக் கிளவி என்று அம் மூன்று என்ப தில்லைச் சொல்லே’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "அச்சம், பெருமை",
+  "rationale": "இவை 'கொன்' சொல்லுக்கு உரியவை.",
+  "isCorrect": false
+  },
+  {
+  "text": "கழிவு, ஆக்கம்",
+  "rationale": "இவை 'மன்' சொல்லுக்கு உரியவை.",
+  "isCorrect": false
+  },
+  {
+  "text": "தேற்றம், வினா",
+  "rationale": "இவை 'ஓ'காரத்திற்கு உரியவை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "வருக தில்லை."
+ },
+ {
+  "questionNumber": 12,
+  "question": "'கொன்' என்னும் இடைச்சொல் உணர்த்தும் பொருள்கள் எவை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அச்சம், பயம் இலி, காலம், பெருமை",
+  "rationale": "‘அச்சம் பயம் இலி காலம் பெருமை என்று அப் பால் நான்கே கொன்னைச் சொல்லே’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "விழைவு, காலம்",
+  "rationale": "இவை 'தில்லை'க்கு உரியவை.",
+  "isCorrect": false
+  },
+  {
+  "text": "எதிர்மறை, சிறப்பு",
+  "rationale": "இவை 'உம்'மைக்கு உரியவை.",
+  "isCorrect": false
+  },
+  {
+  "text": "கழிவு, ஆக்கம்",
+  "rationale": "இவை 'மன்'னுக்கு உரியவை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பயமின்மை மற்றும் பெருமையையும் குறிக்கும்."
+ },
+ {
+  "questionNumber": 13,
+  "question": "'உம்' என்னும் இடைச்சொல் எத்தனை பொருள்களில் வரும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "3",
+  "rationale": "மூன்று என்பது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "8",
+  "rationale": "எச்சம், சிறப்பு, ஐயம், எதிர்மறை, முற்று, எண், தெரிநிலை, ஆக்கம் என எட்டு பொருள்களில் வரும்.",
+  "isCorrect": true
+  },
+  {
+  "text": "4",
+  "rationale": "நான்கு என்பது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "6",
+  "rationale": "ஆறு என்பது தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "எச்சம், சிறப்பு, ஐயம்..."
+ },
+ {
+  "questionNumber": 14,
+  "question": "'மல்லல்' என்னும் உரிச்சொல்லின் பொருள் என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வளம்",
+  "rationale": "‘மல்லல் வளனே’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "விரைவு",
+  "rationale": "விரைவு வேறு உரிச்சொற்களுக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "அச்சம்",
+  "rationale": "அச்சம் வேறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "இளமை",
+  "rationale": "இளமை 'மழ', 'குழ' விற்கு உரியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "மல்லல் மூதூர் வயவேந்தே."
+ },
+ {
+  "questionNumber": 15,
+  "question": "'இயற்சொல்' என்பது யாது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வடமொழிச் சொல்",
+  "rationale": "வடமொழிச் சொல் வடசொல் ஆகும்.",
+  "isCorrect": false
+  },
+  {
+  "text": "செந்தமிழ் நிலத்து வழக்கில் உள்ள சொல்",
+  "rationale": "செந்தமிழ் நிலத்து வழக்கொடு சிவணி தம் பொருள் வழாமை இசைக்கும் சொல் இயற்சொல்.",
+  "isCorrect": true
+  },
+  {
+  "text": "திரிந்து வரும் சொல்",
+  "rationale": "இது திரிசொல்.",
+  "isCorrect": false
+  },
+  {
+  "text": "திசைப் புறத்திலிருந்து வரும் சொல்",
+  "rationale": "இது திசைச்சொல்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இயல்பாகப் பொருள் தரும் சொல்."
+ },
+ {
+  "questionNumber": 16,
+  "question": "'திரிசொல்' என்பது எவ்வகைப்பட்டது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஒரு பொருள் குறித்த வேறு சொல் மற்றும் வேறு பொருள் குறித்த ஒரு சொல்",
+  "rationale": "‘ஒரு பொருள் குறித்த வேறு சொல் ஆகியும் வேறு பொருள் குறித்த ஒரு சொல் ஆகியும்’ வரும்.",
+  "isCorrect": true
+  },
+  {
+  "text": "இயல்பான சொல்",
+  "rationale": "இது இயற்சொல்.",
+  "isCorrect": false
+  },
+  {
+  "text": "வடமொழி எழுத்துக்கள் கொண்டது",
+  "rationale": "இது வடசொல்.",
+  "isCorrect": false
+  },
+  {
+  "text": "வட்டார வழக்குச் சொல்",
+  "rationale": "இது திசைச்சொல்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "செய்யுளில் பயின்று வருவது."
+ },
+ {
+  "questionNumber": 17,
+  "question": "'திசைச்சொல்' என்பது என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வடமொழியில் இருந்து வருவது",
+  "rationale": "அது வடசொல்.",
+  "isCorrect": false
+  },
+  {
+  "text": "செந்தமிழ் நிலம் அல்லாத பன்னிரு நிலங்களிலிருந்து வருவது",
+  "rationale": "‘செந்தமிழ் சேர்ந்த பன்னிரு நிலத்தும் தம் குறிப்பினவே திசைச்சொல் கிளவி’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "இலக்கண முறைப்படி அமைவது",
+  "rationale": "இது இயற்சொல்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கற்றவர்க்கு மட்டும் விளங்குவது",
+  "rationale": "இது திரிசொல்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பிற திசைகளிலிருந்து தமிழுக்கு வந்தவை."
+ },
+ {
+  "questionNumber": 18,
+  "question": "முல்லைத் திணைக்குரிய பெரும்பொழுது என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "கார் காலம்",
+  "rationale": "‘காரும் மாலையும் முல்லை’ என்று தொல்காப்பியம் கூறுகிறது. கார் என்பது மழைக்காலம்.",
+  "isCorrect": true
+  },
+  {
+  "text": "கூதிர் காலம்",
+  "rationale": "கூதிர் குறிஞ்சிக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "முன்பனி காலம்",
+  "rationale": "இது மருதத்திற்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "இளவேனில்",
+  "rationale": "இது பாலைக்கு உரியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "மழைக்காலம்."
+ },
+ {
+  "questionNumber": 19,
+  "question": "முல்லைத் திணைக்குரிய சிறுபொழுது என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "யாமம்",
+  "rationale": "யாமம் குறிஞ்சிக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "மாலை",
+  "rationale": "‘காரும் மாலையும் முல்லை’ - மாலை முல்லைக்கு உரிய சிறுபொழுது.",
+  "isCorrect": true
+  },
+  {
+  "text": "வைகறை",
+  "rationale": "வைகறை மருதத்திற்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "எற்பாடு",
+  "rationale": "எற்பாடு நெய்தலுக்கு உரியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "கதிரவன் மறையும் நேரம்."
+ },
+ {
+  "questionNumber": 20,
+  "question": "குறிஞ்சித் திணைக்குரிய பெரும்பொழுது மற்றும் சிறுபொழுது எவை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "கார், மாலை",
+  "rationale": "இது முல்லை.",
+  "isCorrect": false
+  },
+  {
+  "text": "கூதிர், யாமம்",
+  "rationale": "‘குறிஞ்சி, கூதிர் யாமம் என்மனார் புலவர்’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "வைகறை, விடியல்",
+  "rationale": "இது மருதம்.",
+  "isCorrect": false
+  },
+  {
+  "text": "நண்பகல், வேனில்",
+  "rationale": "இது பாலை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "குளிர்காலமும் நள்ளிரவும்."
+ },
+ {
+  "questionNumber": 21,
+  "question": "மருதத் திணைக்குரிய பொழுதுகள் எவை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வைகறை, விடியல்",
+  "rationale": "‘வைகறை விடியல் மருதம்’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "மாலை",
+  "rationale": "இது முல்லை.",
+  "isCorrect": false
+  },
+  {
+  "text": "யாமம்",
+  "rationale": "இது குறிஞ்சி.",
+  "isCorrect": false
+  },
+  {
+  "text": "எற்பாடு",
+  "rationale": "இது நெய்தல்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "சூரியன் உதிக்கும் முன் மற்றும் உதிக்கும் நேரம்."
+ },
+ {
+  "questionNumber": 22,
+  "question": "நெய்தல் திணைக்குரிய சிறுபொழுது எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "எற்பாடு",
+  "rationale": "‘எற்பாடு நெய்தல் ஆதல் மெய் பெறத் தோன்றும்’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "யாமம்",
+  "rationale": "இது குறிஞ்சி.",
+  "isCorrect": false
+  },
+  {
+  "text": "மாலை",
+  "rationale": "இது முல்லை.",
+  "isCorrect": false
+  },
+  {
+  "text": "நண்பகல்",
+  "rationale": "இது பாலை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "சூரியன் சாயும் நேரம் (பிற்பகல்)."
+ },
+ {
+  "questionNumber": 23,
+  "question": "பாலைத் திணைக்குரிய பொழுதுகள் எவை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "நண்பகல், வேனில், பின்பனி",
+  "rationale": "‘நடுவுநிலைத் திணையே நண்பகல் வேனிலொடு... பின்பனிதானும் உரித்து’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "கார், மாலை",
+  "rationale": "இது முல்லை.",
+  "isCorrect": false
+  },
+  {
+  "text": "கூதிர், யாமம்",
+  "rationale": "இது குறிஞ்சி.",
+  "isCorrect": false
+  },
+  {
+  "text": "வைகறை",
+  "rationale": "இது மருதம்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "வெயில் மிகுந்த நேரம்."
+ },
+ {
+  "questionNumber": 24,
+  "question": "முதற்பொருள் என்பது எவற்றைக் குறிக்கும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "தெய்வம் மற்றும் உணவு",
+  "rationale": "இவை கருப்பொருள்கள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "நிலம் மற்றும் பொழுது",
+  "rationale": "‘முதல் எனப்படுவது நிலம் பொழுது இரண்டின் இயல்பு’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "காதல் ஒழுக்கம்",
+  "rationale": "இது உரிப்பொருள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "பாடல் வரிகள்",
+  "rationale": "இது தவறான விடை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இடமும் காலமும்."
+ },
+ {
+  "questionNumber": 25,
+  "question": "கருப்பொருள் என்பதில் எவை அடங்கும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "நிலம், பொழுது",
+  "rationale": "இவை முதற்பொருள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "தெய்வம், உணவு, மா, மரம், புள், பறை போன்றவை",
+  "rationale": "‘தெய்வம் உணாவே மா மரம் புள் பறை... கரு என மொழிப’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "புணர்தல், பிரிதல்",
+  "rationale": "இவை உரிப்பொருள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "வெட்சி, வஞ்சி",
+  "rationale": "இவை புறத்திணைகள்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "அந்த நிலத்திற்கு உரிய பொருட்கள்."
+ },
+ {
+  "questionNumber": 26,
+  "question": "கரந்தைத் திணை என்பது என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஆநிரை கவர்தல்",
+  "rationale": "ஆநிரை கவர்தல் வெட்சி.",
+  "isCorrect": false
+  },
+  {
+  "text": "கவர்ந்து செல்லப்பட்ட ஆநிரையை மீட்டல்",
+  "rationale": "வெட்சியாரால் கவர்ந்து செல்லப்பட்ட ஆநிரைகளை மீட்பது கரந்தை ('ஆ பெயர்த்துத் தருதலும்').",
+  "isCorrect": true
+  },
+  {
+  "text": "மதில் வளைத்தல்",
+  "rationale": "மதில் வளைத்தல் உழிஞை.",
+  "isCorrect": false
+  },
+  {
+  "text": "போரிடல்",
+  "rationale": "போரிடல் தும்பை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "வெட்சிக்கு எதிரான செயல்."
+ },
+ {
+  "questionNumber": 27,
+  "question": "நொச்சித் திணை என்பது என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "மதிலை வளைத்தல்",
+  "rationale": "மதிலை வளைத்தல் உழிஞை.",
+  "isCorrect": false
+  },
+  {
+  "text": "மதிலைக் காத்தல்",
+  "rationale": "பகைவர் முற்றுகையிட்ட போது கோட்டை மதிலைக் காத்து நிற்பது நொச்சி ('எயில் காத்தல்').",
+  "isCorrect": true
+  },
+  {
+  "text": "படையெடுத்தல்",
+  "rationale": "படையெடுத்தல் வஞ்சி.",
+  "isCorrect": false
+  },
+  {
+  "text": "வெற்றி பெறுதல்",
+  "rationale": "வெற்றி பெறுதல் வாகை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "உழிஞைக்கு எதிரான செயல்."
+ },
+ {
+  "questionNumber": 28,
+  "question": "பாடாண் திணை எதைக் குறிக்கிறது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "போர் செய்தல்",
+  "rationale": "போர் செய்தல் தும்பை, வஞ்சி.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஒருவருடைய புகழ், வலிமை, கொடை, அருள் ஆகியவற்றைப் பாடுவது",
+  "rationale": "பாடப்படும் ஆண்மகனின் ஒழுகலாறுகளைக் கூறுவது பாடாண் திணை.",
+  "isCorrect": true
+  },
+  {
+  "text": "நிலையாமையைக் கூறுவது",
+  "rationale": "நிலையாமையைக் கூறுவது காஞ்சி.",
+  "isCorrect": false
+  },
+  {
+  "text": "காதல் ஒழுக்கம்",
+  "rationale": "காதல் அகத்திணை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பாடு + ஆண் + திணை."
+ },
+ {
+  "questionNumber": 29,
+  "question": "கைக்கிளை என்பது என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "பொருந்தாக் காமம்",
+  "rationale": "பொருந்தாக் காமம் பெருந்திணை.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஒருதலைக் காமம்",
+  "rationale": "ஒரு தரப்பாக மட்டும் இருக்கும் காதல் கைக்கிளை ('காமம் சாலா இளமையோள்வயின்...').",
+  "isCorrect": true
+  },
+  {
+  "text": "அன்பின் ஐந்திணை",
+  "rationale": "இது ஒத்த காதல்.",
+  "isCorrect": false
+  },
+  {
+  "text": "களவு",
+  "rationale": "களவு ஐந்திணையில் வரும்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "ஒரு பக்கத்துக் காதல்."
+ },
+ {
+  "questionNumber": 30,
+  "question": "பெருந்திணை என்பது என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஒருதலைக் காமம்",
+  "rationale": "அது கைக்கிளை.",
+  "isCorrect": false
+  },
+  {
+  "text": "பொருந்தாக் காமம்",
+  "rationale": "வயது, பண்பு போன்றவற்றில் பொருந்தாத காதல் பெருந்திணை ('மிக்க காமத்து மிடலொடு தொகைஇ').",
+  "isCorrect": true
+  },
+  {
+  "text": "கற்பு",
+  "rationale": "கற்பு இல்வாழ்க்கை.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஊடல்",
+  "rationale": "ஊடல் மருதத்திற்கு உரியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "முறை மாறிய அல்லது பொருந்தாத காதல்."
+ },
+ {
+  "questionNumber": 31,
+  "question": "கரணம் (திருமணம்) எப்போது தோன்றியது எனத் தொல்காப்பியம் கூறுகிறது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "தொடக்கத்திலேயே இருந்தது",
+  "rationale": "இது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "பொய்யும் வழுவும் தோன்றிய பின்னர்",
+  "rationale": "‘பொய்யும் வழுவும் தோன்றிய பின்னர் ஐயர் யாத்தனர் கரணம் என்ப’ என்று கற்பியல் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "அரசர்கள் தோன்றிய பின்னர்",
+  "rationale": "இது தவறான கூற்று.",
+  "isCorrect": false
+  },
+  {
+  "text": "வேதங்கள் தோன்றிய பின்னர்",
+  "rationale": "இது தவறான கூற்று.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "மக்கள் நெறி தவறிய போது."
+ },
+ {
+  "questionNumber": 32,
+  "question": "நகை (சிரிப்பு) தோன்றக் காரணமானவை எவை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அழுகை, இளிவரல்",
+  "rationale": "இவை வேறு மெய்ப்பாடுகள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "எள்ளல், இளமை, பேதைமை, மடன்",
+  "rationale": "‘எள்ளல் இளமை பேதைமை மடன் என்று உள்ளப்பட்ட நகை நான்கு என்ப’ என்று மெய்ப்பாட்டியல் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "கல்வி, தறுகண்",
+  "rationale": "இவை பெருமிதத்திற்கு உரியவை.",
+  "isCorrect": false
+  },
+  {
+  "text": "புதுமை, பெருமை",
+  "rationale": "இவை மருட்கைக்கு உரியவை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "கிண்டல், அறியாமை போன்றவை."
+ },
+ {
+  "questionNumber": 33,
+  "question": "அழுகை என்னும் மெய்ப்பாடு தோன்றக் காரணமானவை எவை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "இளிவு, இழவு, அசைவு, வறுமை",
+  "rationale": "‘இளிவே இழவே அசைவே வறுமை என... அழுகை நான்கே’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "அச்சம், பயம்",
+  "rationale": "இவை அச்சத்திற்கு உரியவை.",
+  "isCorrect": false
+  },
+  {
+  "text": "உவகை, இன்பம்",
+  "rationale": "இவை உவகைக்கு உரியவை.",
+  "isCorrect": false
+  },
+  {
+  "text": "வெகுளி, கோபம்",
+  "rationale": "இவை வெகுளிக்கு உரியவை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "வறுமை, இறப்பு போன்றவை."
+ },
+ {
+  "questionNumber": 34,
+  "question": "நாயின் இளமைப் பெயர் என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "கன்று",
+  "rationale": "கன்று யானை, மாடு போன்றவற்றிற்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "குட்டி",
+  "rationale": "‘நாயும் பன்றியும் புலியும் முயலும்... குட்டி’ என்று மரபியல் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "பிள்ளை",
+  "rationale": "பிள்ளை கீரிக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "மறி",
+  "rationale": "மறி ஆடு, மான் ஆகியவற்றிற்கு உரியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "வீட்டில் வளர்க்கும் பிராணி."
+ },
+ {
+  "questionNumber": 35,
+  "question": "சுறாவின் ஆண்பால் பெயர் என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "களிறு",
+  "rationale": "களிறு யானைக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஏறு",
+  "rationale": "‘ஏறு’ என்பது சுறா மீனின் ஆண்பால் பெயராகும்.",
+  "isCorrect": true
+  },
+  {
+  "text": "போத்து",
+  "rationale": "போத்து மயிலுக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "சேவல்",
+  "rationale": "சேவல் கோழிக்கு உரியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "எருதுக்கும் இப்பெயர் உண்டு."
+ },
+ {
+  "questionNumber": 36,
+  "question": "தொல்காப்பியம் குறிப்பிடும் நால்வகை வருணத்தார் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அரசர், வணிகர், வேளாளர், ஆயர்",
+  "rationale": "ஆயர் என்பது தனித் திணைப் பிரிவு.",
+  "isCorrect": false
+  },
+  {
+  "text": "அந்தணர், அரசர், வணிகர், வேளாளர்",
+  "rationale": "இந்த நால்வகையினரையும் மரபியல் குறிப்பிடுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "பாடகர், நடனக்கலைஞர், ஓவியர், சிற்பி",
+  "rationale": "இவை கலைத் தொழில்கள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஆண்கள், பெண்கள், குழந்தைகள், முதியவர்",
+  "rationale": "இது பாலினம் மற்றும் வயது சார்ந்தது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "சமூகப் பிரிவுகள்."
+ },
+ {
+  "questionNumber": 37,
+  "question": "'நூல்' (புத்தகம்) எத்தனை வகைப்படும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "2",
+  "rationale": "முதல் நூல், வழி நூல் என இரண்டு வகைப்படும்.",
+  "isCorrect": true
+  },
+  {
+  "text": "3",
+  "rationale": "மூன்று என்பது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "4",
+  "rationale": "நான்கு என்பது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "5",
+  "rationale": "ஐந்து என்பது தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "மூல நூலும் அதைத் தழுவி வந்ததும்."
+ },
+ {
+  "questionNumber": 38,
+  "question": "உவம உருபுகள் எவை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஆல், கு, இன்",
+  "rationale": "இவை வேற்றுமை உருபுகள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "போல, புரைய, ஒப்ப, உறழ...",
+  "rationale": "இவை உவம உருபுகள் என்று உவமவியல் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "அ, இ, உ",
+  "rationale": "இவை சுட்டெழுத்துக்கள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "மன், தில்லை, கொன்",
+  "rationale": "இவை இடைச்சொற்கள்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "ஒப்பிடுவதற்குப் பயன்படும் சொற்கள்."
+ },
+ {
+  "questionNumber": 39,
+  "question": "'பசப்பு' என்னும் உரிச்சொல்லின் பொருள் என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அழகு",
+  "rationale": "அழகு என்பது தவறான பொருள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "நிறம்",
+  "rationale": "‘பசப்பு நிறன் ஆகும்’ என்று உரிச்சொல் இயல் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "இளமை",
+  "rationale": "இளமை வேறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "முதுமை",
+  "rationale": "முதுமை வேறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பிரிவின் போது தோலில் தோன்றும் மாற்றம்."
+ },
+ {
+  "questionNumber": 40,
+  "question": "'பையுள்' மற்றும் 'சிறுமை' என்னும் உரிச்சொற்கள் எதைக் குறிக்கும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "மகிழ்ச்சி",
+  "rationale": "மகிழ்ச்சி உவகை.",
+  "isCorrect": false
+  },
+  {
+  "text": "நோய் (துன்பம்)",
+  "rationale": "‘பையுளும் சிறுமையும் நோயின் பொருள’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "செல்வம்",
+  "rationale": "செல்வம் மா, மல்லல்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கல்வி",
+  "rationale": "கல்வி வேறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "துன்பத்தைக் குறிக்கும்."
+ },
+ {
+  "questionNumber": 41,
+  "question": "'எய்யாமை' என்றால் என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அறியாமை",
+  "rationale": "‘எய்யாமையே அறியாமையே’ என்று உரிச்சொல் இயல் விளக்குகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "இல்லாமை",
+  "rationale": "இல்லாமை இன்மை.",
+  "isCorrect": false
+  },
+  {
+  "text": "இயலாமை",
+  "rationale": "இயலாமை வேறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "பொறாமை",
+  "rationale": "பொறாமை வேறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "தெரியாமை."
+ },
+ {
+  "questionNumber": 42,
+  "question": "'நன்று' என்னும் உரிச்சொல் எப்பொருளைத் தரும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "சிறிது",
+  "rationale": "சிறிது வறிது.",
+  "isCorrect": false
+  },
+  {
+  "text": "பெரிது",
+  "rationale": "‘நன்று பெரிது ஆகும்’ என்று தொல்காப்பியம் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "தீது",
+  "rationale": "தீது நன்மைக்கு எதிரானது.",
+  "isCorrect": false
+  },
+  {
+  "text": "இனிது",
+  "rationale": "இனிது வேறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "மிகப் பெரியது."
+ },
+ {
+  "questionNumber": 43,
+  "question": "செவிலியின் மகள் தோழி ஆவாள் என்று கூறும் இயல் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "களவியல்",
+  "rationale": "‘தோழிதானே செவிலி மகளே’ என்று களவியல் குறிப்பிடுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "கற்பியல்",
+  "rationale": "கற்பியல் இல்லறம் பற்றியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "பொருளியல்",
+  "rationale": "பொருளியல் பொதுவான காதல் செய்திகள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "மெய்ப்பாட்டியல்",
+  "rationale": "மெய்ப்பாட்டியல் உணர்ச்சிகள் பற்றியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "காதல் ஒழுக்கத்தைக் கூறும் இயல்."
+ },
+ {
+  "questionNumber": 44,
+  "question": "'இரவுக் குறி' என்பது எங்கு நிகழும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வீட்டிற்குள் (இல்லகத்துள்ளும்)",
+  "rationale": "‘இரவுக் குறியே இல்லகத்துள்ளும்...’ என்று களவியல் கூறுகிறது (மனைப் புறத்தே உள்ள வேலியிடத்து).",
+  "isCorrect": true
+  },
+  {
+  "text": "வயல்வெளியில்",
+  "rationale": "இது பகற்குறிக்கு உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "கடற்கரையில்",
+  "rationale": "இது நெய்தல் நிலச் சந்திப்பு.",
+  "isCorrect": false
+  },
+  {
+  "text": "மலையில்",
+  "rationale": "இது குறிஞ்சி நிலச் சந்திப்பு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இரவில் தலைவி வீட்டைச் சார்ந்து."
+ },
+ {
+  "questionNumber": 45,
+  "question": "'பகல் குறி' என்பது எங்கு நிகழும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வீட்டிற்குள்",
+  "rationale": "இது இரவுக்குறி.",
+  "isCorrect": false
+  },
+  {
+  "text": "வீட்டிற்கு வெளியே (புறன்)",
+  "rationale": "‘பகல் புணர் களனே புறன் என மொழிப’ என்று களவியல் கூறுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "கோவிலில்",
+  "rationale": "இது பொதுவான இடம்.",
+  "isCorrect": false
+  },
+  {
+  "text": "பள்ளியில்",
+  "rationale": "இது கல்வி கற்கும் இடம்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "வீட்டை விட்டுத் தள்ளி."
+ },
+ {
+  "questionNumber": 46,
+  "question": "பொருளதிகாரம் எத்தனை இயல்களைக் கொண்டது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "9",
+  "rationale": "அகத்திணை, புறத்திணை, களவு, கற்பு, பொருள், மெய்ப்பாடு, உவமை, செய்யுள், மரபு என ஒன்பது இயல்கள்.",
+  "isCorrect": true
+  },
+  {
+  "text": "5",
+  "rationale": "ஐந்து என்பது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "7",
+  "rationale": "ஏழு என்பது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "10",
+  "rationale": "பத்து என்பது தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "எழுத்து, சொல் போலவே இதற்கும் ஒன்பது இயல்கள்."
+ },
+ {
+  "questionNumber": 47,
+  "question": "எழுத்ததிகாரம் எத்தனை இயல்களைக் கொண்டது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "9",
+  "rationale": "தொல்காப்பியத்தின் ஒவ்வொரு அதிகாரமும் ஒன்பது இயல்களைக் கொண்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "8",
+  "rationale": "எட்டு என்பது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "12",
+  "rationale": "பன்னிரண்டு என்பது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "10",
+  "rationale": "பத்து என்பது தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "மொத்த இயல்கள் 27 (3 x 9)."
+ },
+ {
+  "questionNumber": 48,
+  "question": "'செலவிடை அழுங்கல்' என்றால் என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "பயணம் செல்வது",
+  "rationale": "இது செலவு.",
+  "isCorrect": false
+  },
+  {
+  "text": "பயணத்தை நிறுத்துதல் (தவிர்த்தல்)",
+  "rationale": "தலைவன் தான் மேற்கொள்ளவிருந்த பயணத்தை, தலைவியின் மீதான அன்பால் தவிர்ப்பது.",
+  "isCorrect": true
+  },
+  {
+  "text": "பயணத்தை விரைவுபடுத்துதல்",
+  "rationale": "இது தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "திரும்பி வருதல்",
+  "rationale": "இது மீட்சி.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "செல்லாமல் இருப்பது."
+ },
+ {
+  "questionNumber": 49,
+  "question": "'எல்லாரும்', 'எல்லீரும்' என்பன எவ்வகைச் சொற்கள்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஒருமைப் பெயர்கள்",
+  "rationale": "இவை ஒருவரைக் குறிக்காது.",
+  "isCorrect": false
+  },
+  {
+  "text": "பன்மைப் பெயர்கள்",
+  "rationale": "இவை பலரைக் குறிக்கும் பெயர்கள்.",
+  "isCorrect": true
+  },
+  {
+  "text": "வினையெச்சங்கள்",
+  "rationale": "இவை வினையைச் சார்ந்து நிற்கவில்லை.",
+  "isCorrect": false
+  },
+  {
+  "text": "உரிச்சொற்கள்",
+  "rationale": "இவை பண்பைக் குறிக்கவில்லை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பலரைக் குறிப்பது."
+ },
+ {
+  "questionNumber": 50,
+  "question": "விலங்குகள், பறவைகள், மரங்கள் ஆகியவை எத்திணையைச் சாரும்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "உயர்திணை",
+  "rationale": "உயர்திணை மக்களுக்கு மட்டும் உரியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "அஃறிணை",
+  "rationale": "மக்கள் அல்லாத பிற உயிரினங்கள் அஃறிணையாகும்.",
+  "isCorrect": true
+  },
+  {
+  "text": "பொதுத்திணை",
+  "rationale": "இவை பொதுவானவை அல்ல.",
+  "isCorrect": false
+  },
+  {
+  "text": "விரவுத்திணை",
+  "rationale": "விரவுத்திணை பெயர்களுக்கு உரியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "ஆறறிவு இல்லாதவை."
+ }
+]
