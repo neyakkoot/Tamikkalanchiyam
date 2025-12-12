@@ -2,37 +2,37 @@
   {
     "category": "தமிழ்க் களஞ்சியம் - பயிற்சி 1",
     "quizzes": [
-      { "file": "Mozhiyiyal.json", "title": "மொழியியல்" },
-      { "file": "Nattupuraviyal.json", "title": "நாட்டுப்புறவியல்" },
-      { "file": "Ilakkiyaththiranaivu.json", "title": "இலக்கியத் திறனாய்வு" },
-      { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம்" },
-      { "file": "Ithazhiyal.json", "title": "இதழியல்" },
-      { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல்" },
-      { "file": "Tholliyal.json", "title": "தொல்லியல்" }
+      { "file": "Mozhiyiyal.json", "title": "மொழியியல் 1" },
+      { "file": "Nattupuraviyal.json", "title": "நாட்டுப்புறவியல் 1" },
+      { "file": "Ilakkiyaththiranaivu.json", "title": "இலக்கியத் திறனாய்வு 1" },
+      { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம் 1" },
+      { "file": "Ithazhiyal.json", "title": "இதழியல் 1" },
+      { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல் 1" },
+      { "file": "Tholliyal.json", "title": "தொல்லியல் 1" }
     ]
   },
   {
     "category": "தமிழ்க் களஞ்சியம் - பயிற்சி 2",
     "quizzes": [
-       { "file": "Mozhiyiyal.json", "title": "மொழியியல்" },
-      { "file": "Nattupuraviyal.json", "title": "நாட்டுப்புறவியல்" },
-      { "file": "Ilakkiyaththiranaivu.json", "title": "இலக்கியத் திறனாய்வு" },
-      { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம்" },
-      { "file": "Ithazhiyal.json", "title": "இதழியல்" },
-      { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல்" },
-      { "file": "Tholliyal.json", "title": "தொல்லியல்" }
+       { "file": "Mozhiyiyal.json", "title": "மொழியியல் 2" },
+      { "file": "Nattupuraviyal.json", "title": "நாட்டுப்புறவியல் 2" },
+      { "file": "Ilakkiyaththiranaivu.json", "title": "இலக்கியத் திறனாய்வு 2" },
+      { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம் 2" },
+      { "file": "Ithazhiyal.json", "title": "இதழியல் 2" },
+      { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல் 2" },
+      { "file": "Tholliyal.json", "title": "தொல்லியல் 2" }
     ]
   },
   {
     "category": "தமிழ்க் களஞ்சியம் - பயிற்சி 3",
     "quizzes": [
-      { "file": "Mozhiyiyal.json", "title": "மொழியியல்" },
-      { "file": "Nattupuraviyal.json", "title": "நாட்டுப்புறவியல்" },
-      { "file": "Ilakkiyaththiranaivu.json", "title": "இலக்கியத் திறனாய்வு" },
-      { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம்" },
-      { "file": "Ithazhiyal.json", "title": "இதழியல்" },
-      { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல்" },
-      { "file": "Tholliyal.json", "title": "தொல்லியல்" }
+      { "file": "Mozhiyiyal.json", "title": "மொழியியல் 3" },
+      { "file": "Nattupuraviyal.json", "title": "நாட்டுப்புறவியல் 3" },
+      { "file": "Ilakkiyaththiranaivu.json", "title": "இலக்கியத் திறனாய்வு 3" },
+      { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம் 3" },
+      { "file": "Ithazhiyal.json", "title": "இதழியல் 3" },
+      { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல் 3" },
+      { "file": "Tholliyal.json", "title": "தொல்லியல் 3" }
     ]
   }
 ]
